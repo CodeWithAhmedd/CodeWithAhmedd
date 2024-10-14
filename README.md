@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Modern Web And App Develepment**
 
-- 💬 Ask me about **react, vue and gsap**
+- 💬 Ask me about **javascript and react**
 
 - 📫 How to reach me **muhammadahmedyt@gmail.com**
 
