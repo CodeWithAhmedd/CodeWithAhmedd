@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Modern Web And App Develepment**
 
-- 💬 Ask me about **Full Stack**
+- 💬 Ask me about **Front End**
 
 - 📫 How to reach me **muhammadahmedyt@gmail.com**
 
