@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **muhammadahmedyt@gmail.com**
 
-- ⚡ Fun fact **I speak four languages: English, Spanish, Italian, and French.**
+- ⚡ Fun fact **I speak two languages: English and Italian**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
