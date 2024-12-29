@@ -2,13 +2,11 @@
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 
-- 🌱 I’m currently learning **Modern Web And App Develepment**
+- 🌱 I’m currently learning **App Develepment**
 
 - 💬 Ask me about **Front End**
 
 - 📫 How to reach me **muhammadahmedyt@gmail.com**
-
-- ⚡ Fun fact **I speak two languages: English and Italian**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
