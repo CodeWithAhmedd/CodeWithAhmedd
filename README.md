@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Ahmed</h1>
+<h1 align="center">Hi, I'm Muhammad Ahmed</h1>
 <h3 align="center">🚀 Frontend Developer | Web Dev Enthusiast | Tech Explorer from Pakistan</h3>
 
 ---
