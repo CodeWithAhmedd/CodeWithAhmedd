@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Muhammad Ahmed</h1>
-<h3 align="center">🚀 MernStack Developer | Web Dev Enthusiast | Tech Explorer from Pakistan</h3>
+<h3 align="center">🚀 MERN Stack Developer | Web Dev Enthusiast | Tech Explorer from Pakistan</h3>
 
 ---
 
