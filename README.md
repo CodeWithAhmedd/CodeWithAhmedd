@@ -9,7 +9,6 @@
 🧠 Working as a Python Developer at MRP Elite Pvt Ltd  
 💼 Working as a MERN Stack Developer at CoderzHub  
 💬 Ask me about: Python, JavaScript, Tailwind, React 
-⚡ Fun fact: I can speak 4 languages & I debug faster than your WiFi 😂
 
 
 ---
