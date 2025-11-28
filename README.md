@@ -5,10 +5,12 @@
 
 ## 💫 About Me:
 🌱 Currently learning Full Stack Web & App Development at Saylani Mass IT  
-🎓 Pursuing BBIT at Virtual University (2025–2029)
-🧠 Working as an Intern (ETL & Oracle DB) at MRP Elite Pvt Ltd  
-💬 Ask me about: HTML, CSS, JavaScript, Tailwind, React & Firebase  
-⚡ Fun fact: I can speak 4 languages & I debug faster than your WiFi 😏
+🎓 Pursuing BBIT at Virtual University (2025–2029)  
+🧠 Working as a Python Developer at MRP Elite Pvt Ltd  
+💼 Working as a MERN Stack Developer at CoderzHub  
+💬 Ask me about: Python, JavaScript, Tailwind, React 
+⚡ Fun fact: I can speak 4 languages & I debug faster than your WiFi 😂
+
 
 ---
 
