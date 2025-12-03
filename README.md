@@ -11,7 +11,7 @@
 💬 Ask me about: Python, JavaScript, Tailwind, React 
 
 
----
+--- 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ahmed-1799a8332/)
