@@ -2,7 +2,7 @@
 <h3 align="center">🚀 MERN Stack Developer | Web Dev Enthusiast | Tech Explorer from Pakistan</h3>
 
 ---
-   
+    
 ## 💫 About Me:
 🌱 Currently learning Full Stack Web & App Development at Saylani Mass IT  
 🎓 Pursuing BBIT at Virtual University (2025–2029)  
